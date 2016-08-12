@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1490417319ba47544ae18471889e1474
+timeCreated: 1441370572
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - loginScript: {fileID: 11425192, guid: b69f209994c311c4bb1b2d71975a7653, type: 2}
+  - profileCreationScript: {fileID: 11442570, guid: 868e17a11ba6de7449d0d7439a08a35c,
+      type: 2}
+  - registerScript: {fileID: 11424292, guid: c419c07d277a51148b5c8fa0715f5be3, type: 2}
+  - profileScript: {fileID: 11456316, guid: 9cc5f9b3c66af6f4fa6f41b0a2de2402, type: 2}
+  - browseScript: {fileID: 11443758, guid: 19140bf0bcd543c42821de59749a710b, type: 2}
+  executionOrder: 100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

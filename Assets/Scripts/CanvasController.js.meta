@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 86784b5f1ff459940ba4f54c6b822688
+timeCreated: 1441370572
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - loginCanvas: {fileID: 22327690, guid: ff7e4c0e353cc3544a53bdd378b224d1, type: 2}
+  - registerCanvas: {fileID: 22333340, guid: c419c07d277a51148b5c8fa0715f5be3, type: 2}
+  - profileCreationCanvas: {fileID: 22363486, guid: 868e17a11ba6de7449d0d7439a08a35c,
+      type: 2}
+  executionOrder: 200
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
